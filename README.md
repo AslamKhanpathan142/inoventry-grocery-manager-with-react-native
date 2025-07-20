@@ -24,13 +24,7 @@ A React Native app that helps store owners easily manage their grocery inventory
 
 ---
 
-## 🚀 Live Demo (APK)
 
-👉 [Download APK from Google Drive](https://drive.google.com/your-demo-link)
-
-> (Upload your APK to Google Drive or any hosting platform and paste the link above.)
-
----
 
 ## 📦 Tech Stack
 
